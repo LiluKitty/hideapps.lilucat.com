@@ -1,1 +1,1 @@
-# applock.lilucat.com
+# hideapps.lilucat.com
